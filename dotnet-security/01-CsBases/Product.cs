@@ -29,7 +29,7 @@ namespace CsBases
             Price -= discountAmount; // Price = Price - discountAmount;
         }
 
-        public string GetDescription()
+        public virtual string GetDescription()
         {
             return $"{Name} - ${Price}";
         }
