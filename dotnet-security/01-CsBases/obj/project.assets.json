@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DavidCicconi\\Desktop\\dotnet-security\\01-CsBases\\CsBases.csproj",
+      "projectUniqueName": "C:\\Users\\DavidCicconi\\Desktop\\dotnet-security-git\\dotnet-security\\dotnet-security\\01-CsBases\\CsBases.csproj",
       "projectName": "CsBases",
-      "projectPath": "C:\\Users\\DavidCicconi\\Desktop\\dotnet-security\\01-CsBases\\CsBases.csproj",
+      "projectPath": "C:\\Users\\DavidCicconi\\Desktop\\dotnet-security-git\\dotnet-security\\dotnet-security\\01-CsBases\\CsBases.csproj",
       "packagesPath": "C:\\Users\\DavidCicconi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DavidCicconi\\Desktop\\dotnet-security\\01-CsBases\\obj\\",
+      "outputPath": "C:\\Users\\DavidCicconi\\Desktop\\dotnet-security-git\\dotnet-security\\dotnet-security\\01-CsBases\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

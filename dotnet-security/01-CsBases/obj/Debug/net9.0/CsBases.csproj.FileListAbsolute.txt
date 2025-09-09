@@ -1,0 +1,15 @@
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\bin\Debug\net9.0\CsBases.exe
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\bin\Debug\net9.0\CsBases.deps.json
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\bin\Debug\net9.0\CsBases.runtimeconfig.json
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\bin\Debug\net9.0\CsBases.dll
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\bin\Debug\net9.0\CsBases.pdb
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\CsBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\CsBases.AssemblyInfoInputs.cache
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\CsBases.AssemblyInfo.cs
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\CsBases.csproj.CoreCompileInputs.cache
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\CsBases.sourcelink.json
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\CsBases.dll
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\refint\CsBases.dll
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\CsBases.pdb
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\CsBases.genruntimeconfig.cache
+C:\Users\DavidCicconi\Desktop\dotnet-security-git\dotnet-security\dotnet-security\01-CsBases\obj\Debug\net9.0\ref\CsBases.dll
